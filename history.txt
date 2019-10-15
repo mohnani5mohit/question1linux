@@ -1,0 +1,26 @@
+    1  sudo apt update
+    2  sudo apt get mysql
+    3  sudo apt-get mysql
+    4  sudo apt-get install mysql-server
+    5  sudo mysql_secure_installation utility
+    6  sudo ufw enable
+    7  sudo ufw allow mysql
+    8  sudo systemctl start mysql
+    9  sudo systemctl enable mysql
+   10  create database school
+   11  mysql
+   12  sudo mysql
+   13  sudo apt-get java
+   14  sudo apt java
+   15  sudo apt install java
+   16  apt-get install default-jdk
+   17  apt-get update && apt-get upgrade
+   18  apt-get install default-jdk
+   19  javac hello.java
+   20  sudo apt install default-jdk            
+   21  touch helloWorld.java
+   22  nano helloWorld.java
+   23  javac helloWorld.java
+   24  java helloWorld 
+   25  touch history.txt
+   26  history >> history.txt
